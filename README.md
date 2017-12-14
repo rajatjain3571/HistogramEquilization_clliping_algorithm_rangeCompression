@@ -1,0 +1,4 @@
+# HistogramEquilization_clliping_algorithm_rangeCompression
+HistogramEquilization_clipping_algorithm_rangeCompression
+
+Explaination present in Pa1.pdf question 5
